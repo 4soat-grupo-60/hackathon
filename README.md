@@ -16,6 +16,11 @@ Para viabilizar o desenvolvimento de um sistema que esteja em conformidade com a
 - RM 352031: Marco Aurelio Sobral de Barros | [@marcoasobral](https://github.com/marcoasobral)
 - RM 351423: Mônica da Silva | [@monicadasilva](https://github.com/monicadasilva)
 
+## Links
+
+ - [Document](https://docs.google.com/document/d/1je8_gPBbDnRtXA6b7wbqdgh3RXq6ntDuDjobpLuA5LA/edit)
+ - [Draw.io](https://drive.google.com/file/d/1OpXs0UK-EdjlXerqIk_3y4Xky6eCdkRi/view?usp=sharing)
+ - [Miro](https://miro.com/app/board/uXjVKw-tZFs=/)
 
 
 ## Diagrams
@@ -23,8 +28,3 @@ Para viabilizar o desenvolvimento de um sistema que esteja em conformidade com a
 ![Services]<img src="img/Services.jpg">
 
 ![Cloud] <img src= "img/cloud.jpg">
-## Links
-
- - [Document](https://docs.google.com/document/d/1je8_gPBbDnRtXA6b7wbqdgh3RXq6ntDuDjobpLuA5LA/edit)
- - [Draw.io](https://app.diagrams.net/#G1XOYGx0tMhSciDjIOgD73xDl7Y2pCdl1V#%7B%22pageId%22%3A%220pTkZpLr6KHycclPthgg%22%7D)
- - [Miro](https://miro.com/app/board/uXjVKw-tZFs=/)
