@@ -20,9 +20,9 @@ Para viabilizar o desenvolvimento de um sistema que esteja em conformidade com a
 
 ## Diagrams
 
-![Services]<img src="Services.jpg">
+![Services]<img src="img/Services.jpg">
 
-![Cloud] <img src= "cloud.jpg">
+![Cloud] <img src= "img/cloud.jpg">
 ## Links
 
  - [Document](https://docs.google.com/document/d/1je8_gPBbDnRtXA6b7wbqdgh3RXq6ntDuDjobpLuA5LA/edit)
